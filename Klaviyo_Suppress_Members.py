@@ -1,7 +1,7 @@
 import requests
 
-public_api_key = 'HtseXi'
-private_api_key = 'pk_b018da985cc1761c3b54a07422a87c85ab'
+public_api_key = 'ABC'
+private_api_key = 'XYZ'
 
 """
 A segment was created manually in the Klaviyo UI.
